@@ -1,0 +1,11 @@
+A B GoodUntilCancel 95 92 1
+A B GoodUntilCancel 96 78 2
+A B GoodUntilCancel 97 55 3
+A B GoodUntilCancel 98 17 4
+A B GoodUntilCancel 99 103 5
+A S GoodUntilCancel 104 96 6
+A S GoodUntilCancel 105 88 7
+A S GoodUntilCancel 106 107 8
+A S GoodUntilCancel 107 66 9
+A S GoodUntilCancel 108 84 10
+A S GoodUntilCancel 105 10 11
